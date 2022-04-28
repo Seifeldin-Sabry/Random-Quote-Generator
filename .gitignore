@@ -1,0 +1,7 @@
+.idea
+.idea/*
+*.iml
+.gitignore
+*.json
+node_modules
+node_modules/*
